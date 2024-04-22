@@ -15,22 +15,28 @@ university course work, network problems, canvas, and catalyst. The students can
 their questions, and others can give a solution. This can help students choose a fast and
 reliable solution for their problem.
 ## Application over-view:
-1.My Help" is a mobile app designed to facilitate communication and collaboration among
+- 1. My Help" is a mobile app designed to facilitate communication and collaboration among
 MSIT students.
-2. The app aims to create a supportive community where students can help each other with
+- 2. The app aims to create a supportive community where students can help each other with
 technical challenges and other common questions related to university.
 ## Target Users:
-1.MSIT students who need support with Course or other IT related problems.
-2.People of MSIT willing to contribute solutions to IT students
+- 1.MSIT students who need support with Course or other IT related problems.
+- 2.People of MSIT willing to contribute solutions to IT students
 ## User Interface:
-1.Home Feed: Home with recent questions and topics to select by users to see. [ using filter to
+- 1.Home Feed: Home with recent questions and topics to select by users to see. [ using filter to
 so related questions]
-2.Question Posting: Post their questions or technical problem they encountered.
-3.Solution sharing: Users can provide solutions to posted questions and Upvoting and
+- 2.Question Posting: Post their questions or technical problem they encountered.
+- 3.Solution sharing: Users can provide solutions to posted questions and Upvoting and
 commenting features to enhance engagement.
 4.Profile and notifications: User profiles with history of questions and answers and
 Notifications about new responses to posted questions
 ## Expected Impact and Result:
-1.Empower MSIT students to conquer IT difficulties together.
-2.Encourage a feeling of community and information sharing in the MSIT program.
-3.Increase general IT literacy and problem-solving abilities in the MSIT community.
+- 1.Empower MSIT students to conquer IT difficulties together.
+- 2.Encourage a feeling of community and information sharing in the MSIT program.
+- 3.Increase general IT literacy and problem-solving abilities in the MSIT community.
+  
+**_Profile _**:
+
+![Profile ](./Images/profile.png)
+
+
