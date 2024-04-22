@@ -46,7 +46,7 @@ Notifications about new responses to posted questions
 
 **_ DashBoard _**:
 
-![DashBoard ](./Images/dashboard.png)
+![DashBoard ](./Images/Dashboard.png)
 
 **_ Canvas _**:
 
@@ -58,10 +58,9 @@ Notifications about new responses to posted questions
 
 **_ Maps _**:
 
-![Maps](./Images/map.png)
+![Maps](./Images/maps.png)
 
 **_ Video  _**:
-**_Profile _**:
 
-![video ](./Tech_Final.mp4)
+![video](Tech_Final.mp4)
 
