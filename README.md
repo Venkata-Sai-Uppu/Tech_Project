@@ -109,5 +109,9 @@ Notifications about new responses to posted questions
 
 **_ Video  _**:
 
-[video](./Tech_Final.mp4)
+
+
+
+https://github.com/Venkata-Sai-Uppu/Tech_Project/assets/163791022/f1b8af27-e5b6-47c0-b4b9-8756deec36b9
+
 
