@@ -34,9 +34,34 @@ Notifications about new responses to posted questions
 - 1.Empower MSIT students to conquer IT difficulties together.
 - 2.Encourage a feeling of community and information sharing in the MSIT program.
 - 3.Increase general IT literacy and problem-solving abilities in the MSIT community.
-  
+
+  ## Demo Screenshots:
+**_ My Help Screen _**:
+
+![Profile ](./Images/home.png)
+
 **_Profile _**:
 
 ![Profile ](./Images/profile.png)
 
+**_ DashBoard _**:
+
+![DashBoard ](./Images/dashboard.png)
+
+**_ Canvas _**:
+
+![canvas ](./Images/canvas.png)
+
+**_ Catalyst _**:
+
+![Catalyst ](./Images/catalyst.png)
+
+**_ Maps _**:
+
+![Maps](./Images/map.png)
+
+**_ Video  _**:
+**_Profile _**:
+
+![video ](./Tech_Final.mp4)
 
