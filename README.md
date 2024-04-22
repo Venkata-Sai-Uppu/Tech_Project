@@ -9,7 +9,7 @@ payments. It is not only about general problems. Sometimes it is also about tech
 problems with the sand box or canvas. The existing solutions or designed things couldn’t fit
 for recent problems.
 ## Project Idea:
-I want to develop an “My Help” application for MSIT students that can help students at the
+I want to develop an ```My Help``` application for MSIT students that can help students at the
 university learn about different things related to the university. It has questions related to the
 university course work, network problems, canvas, and catalyst. The students can express
 their questions, and others can give a solution. This can help students choose a fast and
