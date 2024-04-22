@@ -62,5 +62,5 @@ Notifications about new responses to posted questions
 
 **_ Video  _**:
 
-![video](Tech_Final.mp4)
+[video](./Tech_Final.mp4)
 
