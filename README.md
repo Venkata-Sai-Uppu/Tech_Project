@@ -1,3 +1,50 @@
+
+# MyHelp - A React Native Application
+
+This repository contains the code for "MyHelp", a React Native application designed to assist MSIT students with a platform for addressing their queries.
+
+## Features
+
+- User authentication.
+- Profile management.
+- Easy navigation to various sections such as Canvas, Catalyst, Courses, Sandbox, and Maps.
+- A helpdesk for students' inquiries.
+- Direct contact options via email.
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+Before running the project, you must have Node.js and npm installed on your system. You can download them from [Node.js Official Website](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repository:
+   sh
+   git clone https://github.com/your_username_/Project-Name.git
+   
+2. Install NPM packages:
+   sh
+   npm install
+   
+3. Start the Expo project:
+   sh
+   npx expo start
+   
+
+### Usage
+
+This app is designed for MSIT students to help manage their academic queries. After logging in, users can navigate through different sections and use the helpdesk for assistance.
+
+
+## Acknowledgements
+
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [React Navigation](https://reactnavigation.org/)
+
 ## Team Members:
 1. Velakatoori Harshitha-M15890106
 2. Nikhil Palli-M15802129
